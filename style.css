@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header {
+   background-color:navy ;
+   color: white;
+   text-shadow: 1px 1px 1px black, 0 0 1em black; /* Параметры тени */
+   padding: 20px;
+   border-radius: 15px;
+ 
+}
+header a {
+    color: white;
+     padding: 10px;
+    
+}
+h1 {
+    text-align: center;
+    color:DarkOrchid ;
+}
+div {
+    text-align: right;
+
+}
+footer p {
+border: 1px solid navy;
+padding: 10px;
+}
+nav {
+    margin:20px ;
+    padding: 10px;
+    border: 2px solid lightgray;
+}
+.menu {
+    margin: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    color:rgb(90,90,90) ;
+}
+.produt {
+    background-color: rgb(150, 188, 100);
+    padding: 20px;
+}
+.kot {
+    text-decoration: none;
+    border:2px solid darkblue ;
+    padding: 5px;
+    color: rgb(28, 28, 118);
+
+}
+h2 {
+    color: blue;
+    font-size: 20px;
+}
